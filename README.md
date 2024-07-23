@@ -13,3 +13,4 @@ This project, "Chat with PDF," leverages advanced Generative AI to enable users 
 - **Streamlit Interface**: Provides an intuitive and user-friendly interface using Streamlit for easy document upload and interaction.
 
 This project showcases the power of Generative AI and modern NLP techniques in creating an interactive, user-friendly application for document analysis and comprehension.
+Check out the demo: https://drive.google.com/file/d/1C4ZwXbX1vobp12rlh_o7mBm7XgAZfrQ_/view?usp=sharing
